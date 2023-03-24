@@ -1,0 +1,5 @@
+! reddit.com associate email with account banner
+reddit.com##div[class="kEQVd8aneM1tVkcIKUyDT"]
+
+! photopea.com informational banner
+photopea.com##div[class="cap"]
