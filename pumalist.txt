@@ -2,4 +2,4 @@
 reddit.com##div[class="kEQVd8aneM1tVkcIKUyDT"]
 
 ! photopea.com informational banner
-photopea.com##div[class="cap"]
+photopea.com##div[id="cap"]
