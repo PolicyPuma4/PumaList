@@ -4,4 +4,4 @@ reddit.com##div > div.kEQVd8aneM1tVkcIKUyDT
 reddit.com##div[class="_1DK52RbaamLOWw5UPaht_S _199HcTqT2ANvw-1B0onPUa _1acwN_tUhJ8w-n7oCp-Aw3"]
 
 ! photopea.com informational banner
-photopea.com##div[id="cap"]
+photopea.com##div#cap
