@@ -1,10 +1,10 @@
 ! associate email with account banner
-||reddit.com##div > div.kEQVd8aneM1tVkcIKUyDT
+reddit.com##div > div.kEQVd8aneM1tVkcIKUyDT
 ! interests banner
-||reddit.com##div._1DK52RbaamLOWw5UPaht_S._199HcTqT2ANvw-1B0onPUa._1acwN_tUhJ8w-n7oCp-Aw3
+reddit.com##div._1DK52RbaamLOWw5UPaht_S._199HcTqT2ANvw-1B0onPUa._1acwN_tUhJ8w-n7oCp-Aw3
 
 ! informational banner
-||photopea.com##div#cap
+photopea.com##div#cap
 
 ! typing notifier
 ||discord.com/api/v9/channels/*/typing
